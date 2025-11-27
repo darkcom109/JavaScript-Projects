@@ -20,5 +20,3 @@ I Followed BroCode's 12 Hour JavaScript Course
    
    ```bash
    git clone https://github.com/your-username/JavaScript-Projects.git
-
-
